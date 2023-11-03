@@ -1,3 +1,20 @@
 <resources>
+
     <string name="app_name">Khmer Culture</string>
+    <string name="login">Login to Your Account</string>
+    <string name="username">Email or Username</string>
+    <string name="password">Password</string>
+    <string name="login_main">LOGIN</string>
+    <string name="new_user">New User? Register Now</string>
+    <string name="options">or login with</string>
+    <string name="background">Khmer Empire...</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="culture">Culture</string>
+    <string name="sing_in">Login</string>
+    <string name="khmer_clothes">Khmer Traditional Clothes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello History Fragment</string>
+    <string name="culture_fragment">Hello Culture Fragment</string>
+
 </resources>
