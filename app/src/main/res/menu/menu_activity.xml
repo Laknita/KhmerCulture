@@ -3,18 +3,22 @@
 
     <item
         android:id="@+id/MenuHome"
+        android:icon="@drawable/ic_home"
         android:title="@string/home" />
 
     <item
         android:id="@+id/MenuHistory"
+        android:icon="@drawable/ic_history"
         android:title="@string/history" />
 
     <item
         android:id="@+id/MenuCulture"
+        android:icon="@drawable/ic_culture"
         android:title="@string/culture" />
 
     <item
         android:id="@+id/MenuLogin"
-        android:title="@string/sing_in"/>
+        android:icon="@drawable/ic_login"
+        android:title="@string/sing_in" />
 
 </menu>
