@@ -11,15 +11,21 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+        <Button
+            android:id="@+id/menu"
+            android:layout_width="190dp"
+            android:layout_height="50dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentBottom="true"
-            android:layout_marginStart="220dp"
-            android:layout_marginBottom="15dp"
+            android:layout_marginHorizontal="120dp"
+            android:layout_marginStart="115dp"
+            android:layout_marginEnd="110dp"
+            android:layout_marginBottom="18dp"
+            android:background="@drawable/shape"
             android:text="@string/background"
-            android:textColor="@color/blue_khmer"
-            android:textSize="25dp"
+            android:textColor="@color/blue"
+            android:textSize="18dp"
             android:textStyle="bold" />
 
     </RelativeLayout>

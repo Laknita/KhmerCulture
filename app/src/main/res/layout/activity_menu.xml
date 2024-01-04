@@ -5,13 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Fragments.MenuFragment">
+    tools:context=".MainActivity">
 
     <FrameLayout
         android:id="@+id/act_fragment"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="1" />
+        android:layout_weight="1">
+    </FrameLayout>
 
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/bottom"
